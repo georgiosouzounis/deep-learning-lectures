@@ -15,7 +15,7 @@ In this notebook the student will be tasked to solve a churn prediction problem 
 - evaluate the model performance
 - optimize/fine-tune the model
 
-The code is available in [artificial_neural_networks.ipynb]().
+The code is available in [artificial_neural_networks.ipynb](https://raw.githubusercontent.com/georgiosouzounis/deep-learning-lectures/main/artificial_neural_networks.ipynb).
 
 
 ## 2. Convolutional Neural Networks (CNNs)
