@@ -1,4 +1,4 @@
-<img src=\"https://www.kaunokolegija.lt/kk_wp_content/uploads/sites/5/2020/05/kaunas-university-of-applied-sciences.png\" width=\"300\"/>
+<img src="https://www.kaunokolegija.lt/kk_wp_content/uploads/sites/5/2020/05/kaunas-university-of-applied-sciences.png" width="300"/>
 
 ------
 
