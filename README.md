@@ -13,11 +13,13 @@ This section offers 3 tutorials to familiarize with some basic libraries in Pyth
 - [tutorial_1_pandas.ipynb](https://raw.githubusercontent.com/georgiosouzounis/deep-learning-lectures/main/tutorial_2_pandas.ipynb)
 - [tutorial_1_matplotlib.ipynb](https://raw.githubusercontent.com/georgiosouzounis/deep-learning-lectures/main/tutorial_3_matplotlib.ipynb)
 
-<br>
-<img src="https://catalystforbusiness.com/wp-content/uploads/2017/12/customer-care.jpg" align="left" width="400"/>  
-<br/>
+
 
 ## 2. Artificial Neural Networks (ANNs)
+
+<br>
+<img src="https://catalystforbusiness.com/wp-content/uploads/2017/12/customer-care.jpg" width="400"/>  
+<br/>
 
 In this notebook you will be tasked to solve a churn prediction problem using an artificial neural network classifier. The purpose of this study is to showcase how to:
 - interrogate your data and apply basic data preprocessing methods for optimizing your tables;
@@ -35,7 +37,7 @@ shortly
 
 ## 4. Recurrent Neural Networks (RNNs)
 <br>
-<img src="https://miro.medium.com/max/3504/1*NpT5pyemQQsGEHXbfS51Zw.png" width="400" align="left"/>
+<img src="https://miro.medium.com/max/3504/1*NpT5pyemQQsGEHXbfS51Zw.png" width="400"/>
 <br/>
 
 In this notebook you will be tasked to solve a stock price prediction problem using recurrent neural networks. The purpose of this study is to showcase how to:
