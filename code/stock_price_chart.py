@@ -1,7 +1,9 @@
+# 
+# Stock Price Chart
+# by Georgios Ouzounis, June 2021
 #
-#
-#
-# code source: https://medium.com/analytics-vidhya/visualizing-historical-stock-price-and-volume-from-scratch-46029b2c5ef9
+# This code is asssembled from the the article posted in Medium.com
+# original code source: https://medium.com/analytics-vidhya/visualizing-historical-stock-price-and-volume-from-scratch-46029b2c5ef9
 # by Trifunovic Uros, Mar. 23, 2021
 
 import requests

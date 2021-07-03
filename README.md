@@ -49,6 +49,8 @@ In this notebook you will be tasked to solve a stock price prediction problem us
 - evaluate the model performance,
 - optimize/fine-tune the model.
 
+The code is available in [recurrent_neural_networks.ipynb](https://raw.githubusercontent.com/georgiosouzounis/deep-learning-lectures/main/recurrent_neural_networks.ipynb)
+
 Enjoy
 
 
